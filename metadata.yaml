@@ -1,0 +1,48 @@
+_repo: Les-saisons-les-jours_74040
+_version: 0.0.1
+alternative_title: Les saisons et les jours
+creator:
+  author:
+    agent_name: Tailhade, Laurent
+    aliases:
+    - Azède
+    - Azede
+    - Cachetero, El
+    - Junipérien, Dom
+    - Juniperien, Dom
+    - Lorenzaccio
+    - Patte-Pelue
+    - Renzi
+    - Tybalt
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '47304'
+    url: http://www.gutenberg.org/2009/agents/47304
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Laurent_Tailhade
+    - https://en.wikipedia.org/wiki/Laurent_Tailhade
+description: ''
+gutenberg_issued: '2024-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74040'
+language: fr
+pgterms:marc904: https://archive.org/details/lessaisonsetlesj00tailuoft
+pgterms:marc905: 20240316145016tailhade
+pgterms:marc906: '1917'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bGeorges Crès & Cie, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Calendar -- History'
+- !lcsh 'Seasons -- Miscellanea'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Les saisons et les jours -- Deux paysages: I. Ardennes. II. Pyrénées
+  -- Appendice.'
+title: Les saisons & les jours
+url: http://www.gutenberg.org/ebooks/74040
