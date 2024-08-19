@@ -1,6 +1,9 @@
 _repo: Les-saisons-les-jours_74040
 _version: 0.1.0
 alternative_title: Les saisons et les jours
+covers:
+- cover_type: archival
+  image_path: 74040-h/images/cover.jpg
 creator:
   author:
     agent_name: Tailhade, Laurent
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Laurent_Tailhade
     - https://en.wikipedia.org/wiki/Laurent_Tailhade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74040#Les-saisons-les-jours
 gutenberg_issued: '2024-07-14'
 gutenberg_type: Text
 identifiers:
